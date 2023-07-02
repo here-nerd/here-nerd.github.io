@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro test3
+# Tutorial Intro test3. This is scribo-potato!
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
